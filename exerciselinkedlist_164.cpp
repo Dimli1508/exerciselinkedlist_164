@@ -146,7 +146,7 @@ int main() {
             cout << "2. Delete a record from the list" << endl;
             cout << "3. View all the records in the list" << endl;
             cout << "4. Exit" << endl;
-            cout << "\nEnter your choice (1-4): ";
+            cout << "\nEnter your choice (1-4): "; //fixed typo
             char ch;
             cin >> ch;
 
